@@ -41,7 +41,7 @@
         "_classes": "",
         "_layout": "left",
         "title": "Text",
-        "displayTitle": "Text",
+        "displayTitle": "Modelling Errors",
         "body": "Modelling errors can be extremely costly. They can also be embarrassingly high-profile. The error in the model used to evaluate bids in the InterCity West Coast franchise competition in 2012 led to unforeseen costs to taxpayers of £54 million (as reported in our Forecasting report). It was this case that prompted HMT to commission the Macpherson review of the quality assurance of modelling, which recommended that departments put in place the right processes and culture to       support quality assurance.So what goes wrong? Typically the problems relate to: <br><ul><li>Limited or poor quality data; <li>Unrealistic assumptions and optimism bias – an issue we addressed previously in our blog The art of spending public money wisely and our paper on Over-optimism in government projects; and/or<li>Inadequate sensitivity and scenario analysis. These factors – and an actual lack of forecasting or modelling – were the key weaknesses found in 71 reviewed NAO studies undertaken between 2010 and 2013, as detailed in Forecasting in government to achieve value for money.",
         "instruction": "",
         "_pageLevelProgress": {
@@ -89,34 +89,34 @@
         "_setCompletionOn": "allItems",
         "_hasNavigationInTextArea": false,
         "title": "Narrative",
-        "displayTitle": "Narrative",
-        "body": "The narrative component lets you scroll through a series of images each with some accompanying text.<br><br>This component is always spanned.",
+        "displayTitle": "MacPherson Report",
+        "body": "In October 2012, the Cabinet Secretary and the Head of the Civil Service commissioned a review of the quality assurance (QA) of analytical models that inform government policy.",
         "instruction": "Select the next and back arrows to find out more.",
         "mobileInstruction": "Select the next and back arrows followed by the plus icon to find out more.",
         "_items": [
             {
-                "title": "Narrative item 1",
-                "body": "Narratives are particularly good for showing dialogue between two or more characters, with each step of the conversation being accompanied by an image. This photo story approach can be used to provide context for the learning to follow, to illustrate real-world application of the learning or to show the impact on people when the learning hasn’t been applied correctly.",
+                "title": "Commission started",
+                "body": " Since the difficulties with the Intercity West Coast franchise competition, the quality of government analysis has, rightly, been scrutinised. In October 2012, Nick Macpherson was commissioned to review the quality assurance of analytical models across government. The recommendations of that review were written with the aim to extend best practice across the whole of government. They focus on quality assurance, governance and accountability, culture, capacity, capability and control.",
                 "_graphic": {
-                    "src": "course/en/images/narrative.png",
+                    "src": "course/en/images/man_read.png",
                     "alt": "Placeholder graphic."
                 },
                 "strapline": "Narrative item 1"
             },
             {
-                "title": "Narrative item 2",
-                "body": "Narratives can also be used to present case studies, where the different displays are used to set the scene, show the key events and then the outcome.",
+                "title": "Review of quality assurance of Government analytical models",
+                "body": "To assure current arrangements are robust, the review team conducted three strands of work. Firstly, it interviewed public and private sector organisations and professional bodies, to identify best practice. Secondly, it collected and analysed data on departments’ current QA practices. Thirdly, and drawing on the outputs from these workstreams, it developed recommendations.",
                 "_graphic": {
-                    "src": "course/en/images/narrative.png",
+                    "src": "course/en/images/paper_pen.png",
                     "alt": "Placeholder graphic."
                 },
                 "strapline": "Narrative item 2"
             },
             {
-                "title": "Narrative item 3",
-                "body": "The narrative can also be used when you want to illustrate the constituent steps that make up a larger process.",
+                "title": "Aftermath",
+                "body": "A cross departmental working group assembled to work on analytical quality assurance published The Aqua Book in March 2015. This draws together existing practice from across departments and best practice from analysts across analytical professions. It is intended to help and provide advice to those implementing the recommendations from the Macpherson review and to promote analytical quality. The working group have also since released a series of supporting documents, such as QA logs",
                 "_graphic": {
-                    "src": "course/en/images/narrative.png",
+                    "src": "course/en/images/chart.png",
                     "alt": "Placeholder graphic."
                 },
                 "strapline": "Narrative item 3"
