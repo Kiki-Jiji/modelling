@@ -46,29 +46,5 @@
             "_excludeAssessments": false,
             "_isCompletionIndicatorEnabled": false
         }
-    },
-    {
-        "_id": "co-15",
-        "_parentId": "course",
-        "_type": "page",
-        "_classes": "assessment",
-        "_htmlClasses": "",
-        "title": "Adapt Assessment",
-        "displayTitle": "Adapt Assessment",
-        "body": "Find out more about the assessment functionality introduced in Adapt v2, including randomised banks and an improved results feature.",
-        "pageBody": "We’ve put together a very short quiz to demonstrate the new assessment functionality. In this simple example there are two banks that each contain three questions with two being taken from each bank at random. The order in which the questions are presented is then also randomised, as is the order of each question’s options.",
-        "instruction": "Think you can get a perfect score? Scroll down to attempt the first question.",
-        "_graphic": {
-            "src": "course/en/images/menu-item.png",
-            "alt": ""
-        },
-        "linkText": "View",
-        "duration": "2 mins",
-        "_pageLevelProgress": {
-            "_isEnabled": true,
-            "_showPageCompletion": false,
-            "_excludeAssessments": false,
-            "_isCompletionIndicatorEnabled": false
-        }
     }
 ]
