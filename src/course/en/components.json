@@ -42,7 +42,7 @@
         "_layout": "left",
         "title": "Text",
         "displayTitle": "Modelling Errors",
-        "body": "Modelling errors can be extremely costly. They can also be embarrassingly high-profile. The error in the model used to evaluate bids in the InterCity West Coast franchise competition in 2012 led to unforeseen costs to taxpayers of £54 million (as reported in our Forecasting report). It was this case that prompted HMT to commission the Macpherson review of the quality assurance of modelling, which recommended that departments put in place the right processes and culture to       support quality assurance.So what goes wrong? Typically the problems relate to: <br><ul><li>Limited or poor quality data; <li>Unrealistic assumptions and optimism bias – an issue we addressed previously in our blog The art of spending public money wisely and our paper on Over-optimism in government projects; and/or<li>Inadequate sensitivity and scenario analysis. These factors – and an actual lack of forecasting or modelling – were the key weaknesses found in 71 reviewed NAO studies undertaken between 2010 and 2013, as detailed in Forecasting in government to achieve value for money.",
+        "body": "Modelling errors can be extremely costly. They can also be embarrassingly high-profile. The error in the model used to evaluate bids in the InterCity West Coast franchise competition in 2012 led to unforeseen costs to taxpayers of £54 million (as reported in our Forecasting report). It was this case that prompted HMT to commission the Macpherson review of the quality assurance of modelling, which recommended that departments put in place the right processes and culture to       support quality assurance.So what goes wrong? Typically the problems relate to: <br><ul><li>Limited or poor quality data; <li>Unrealistic assumptions and optimism bias – an issue we addressed in the blog The art of spending public money wisely and a paper on Over-optimism in government projects; and/or<li>Inadequate sensitivity and scenario analysis. These factors – and an actual lack of forecasting or modelling – were the key weaknesses found in 71 reviewed NAO studies undertaken between 2010 and 2013, as detailed in Forecasting in government to achieve value for money.",
         "instruction": "",
         "_pageLevelProgress": {
             "_isEnabled": true
@@ -121,32 +121,32 @@
         "_isRandom": true,
         "_selectable": 2,
         "title": "Multiple Choice Question",
-        "displayTitle": "Multiple Choice Question",
-        "body": "In what year was the first recorded instance of a large scale assessment that consists solely of multiple choice questions?",
+        "displayTitle": "Modelling Error",
+        "body": "What modelling error lead to the MacPherson review",
         "instruction": "Choose one or more options and select Submit.",
         "_items": [
             {
-                "text": "1917",
+                "text": "Shadow Ratings Model",
+                "_shouldBeSelected": false
+            },
+            {
+                "text": "InterCity West Coast franchise",
                 "_shouldBeSelected": true
             },
             {
-                "text": "1888",
+                "text": "Student Loan model",
                 "_shouldBeSelected": false
             },
             {
-                "text": "1953",
-                "_shouldBeSelected": false
-            },
-            {
-                "text": "1977",
+                "text": "Aquatrine Package B PFI Financial Model",
                 "_shouldBeSelected": false
             }
         ],
         "_feedback": {
             "title": "Feedback",
-            "correct": "Correct feedback text.<br><br>That’s correct. The first large assessment to consist solely of the multiple choice question type was the Army Alpha test, used from <strong>1917</strong> to evaluate U.S. military recruits in the First World War.<br><br>Source: <a href='http://en.wikipedia.org/wiki/Multiple_choice' target='_blank'>Wikipedia</a><br><br><em>Component facts: <strong>Multiple Choice Questions (or MCQs)</strong> are a tried and tested method for presenting learners with a simple text-based question. Component is either single or spanned.</em>",
+            "correct": "That’s correct. In 2012 the UK government ran a competition for who would run a particular service (the InterCity West Coast rail franchise). Civil servants modelled the various bids to assess its costs and benefits and a winner of the competition announced as a result. Unfortunately for the government, this decision was challenged in the courts and it turned out that there were mistakes in the modelling, and the decision was retracted. This caused the government some embarrassment as well as cost it quite a bit of money because it had to re-run the competition. ",
             "_incorrect": {
-                "final": "Incorrect feedback text.<br><br>That’s not right. The first large assessment to consist solely of the multiple choice question type was the Army Alpha test, used from <strong>1917</strong> to evaluate U.S. military recruits in the First World War.<br><br>Source: <a href='http://en.wikipedia.org/wiki/Multiple_choice' target='_blank'>Wikipedia</a><br><br><em>Component facts: <strong>Multiple Choice Questions (or MCQs)</strong> are a tried and tested method for presenting learners with a simple text-based question. Component is either single or spanned.</em>"
+                "final": "That’s not right. It was actually the the InterCity West Coast rail franchise"
             }
         },
         "_pageLevelProgress": {
@@ -167,7 +167,7 @@
         "body": "",
         "instruction": "",
         "_graphic": {
-            "src": "course/en/images/single-width.png",
+            "src": "course/en/images/train.png",
             "alt": "Placeholder graphic.",
             "attribution": ""
         }
@@ -186,34 +186,34 @@
         "_isRandom": true,
         "_selectable": 1,
         "title": "Graphical Multiple Choice Question",
-        "displayTitle": "Graphical Multiple Choice Question",
-        "body": "The graphical multiple choice question is an alternative to the standard MCQ, and allows you to ask a question and present the options as graphics (with accompanying captions). This component is always spanned.",
-        "instruction": "Choose option 2 and select Submit.",
+        "displayTitle": "Causes of modelling errors",
+        "body": "There are many causes of modelling error. Which of these was <strong>not</strong> identified as a cause of modelling error?",
+        "instruction": "Choose an option and select Submit.",
         "_columns": 3,
         "_items": [
             {
-                "text": "Option 1",
+                "text": "Unrealistic assumptions and optimism bias",
                 "_shouldBeSelected": false,
                 "_graphic": {
-                    "large": "course/en/images/gmcq.png",
+                    "large": "course/en/images/glass.png",
                     "small": "course/en/images/gmcq.png",
                     "alt": "Placeholder graphic."
                 }
             },
             {
-                "text": "Option 2",
+                "text": "parsimonious models",
                 "_shouldBeSelected": true,
                 "_graphic": {
-                    "large": "course/en/images/gmcq.png",
+                    "large": "course/en/images/chair.png",
                     "small": "course/en/images/gmcq.png",
                     "alt": "Placeholder graphic."
                 }
             },
             {
-                "text": "Option 3",
+                "text": "Limited or poor quality data",
                 "_shouldBeSelected": false,
                 "_graphic": {
-                    "large": "course/en/images/gmcq.png",
+                    "large": "course/en/images/art_data.png",
                     "small": "course/en/images/gmcq.png",
                     "alt": "Placeholder graphic."
                 }
@@ -221,169 +221,9 @@
         ],
         "_feedback": {
             "title": "Feedback",
-            "correct": "Correct feedback text.<br><br>That’s correct. <strong>Option 2</strong> is what we were looking for!",
+            "correct": "That’s correct.<br> <strong>parsimonious models</strong> is what we were looking for!",
             "_incorrect": {
-                "final": "Incorrect feedback text.<br><br>Sorry, that’s not right. In fact <strong>Option 2</strong> is what we were looking for (the clue was in the instruction text!)."
-            }
-        },
-        "_pageLevelProgress": {
-            "_isEnabled": true,
-            "_isCompletionIndicatorEnabled": true
-        }
-    },
-    {
-        "_id": "c-70",
-        "_parentId": "b-50",
-        "_type": "component",
-        "_component": "textinput",
-        "_classes": "",
-        "_layout": "left",
-        "_attempts": 1,
-        "_questionWeight": 1,
-        "_canShowModelAnswer": true,
-        "_shouldDisplayAttempts": false,
-        "_isRandom": true,
-        "_allowsAnyCase": true,
-        "_allowsPunctuation": true,
-        "title": "Text Input",
-        "displayTitle": "Text Input",
-        "body": "Can you name one of the three companies that established Adapt as a community led Open Source project?",
-        "instruction": "Input your answer and select Submit.",
-        "_answers": [
-            ["City & Guilds Kineo", "Kineo"],
-            ["Learning Pool"],
-            ["Sponge"]
-        ],
-        "_items": [
-            {
-                "prefix": "",
-                "placeholder": "Enter answer here",
-                "suffix": ""
-            }
-        ],
-        "_feedback": {
-            "title": "Feedback",
-            "correct": "Correct answer feedback.<br><br>That’s correct. The Adapt Open Source project was established by Kineo, Learning Pool and Sponge. At the time of writing, there are a total of nine <a href='https://www.adaptlearning.org/index.php/collaborators/' target='_blank'>official collaborators</a>.<br><br><em>Component facts: <strong>Text input</strong> components let learners enter their own answers, which is great for questions that require a bit more flexibility, like those with answers that could be written as both full words and numbers.</em>",
-            "_partlyCorrect": {
-                "final": "Incorrect answer feedback.<br><br>Sorry, that’s not right. The Adapt Open Source project was established by Kineo, Learning Pool and Sponge. At the time of writing, there are a total of nine <a href='https://www.adaptlearning.org/index.php/collaborators/' target='_blank'>official collaborators</a>.<br><br><em>Component facts: <strong>Text input</strong> components let learners enter their own answers, which is great for questions that require a bit more flexibility, like those with answers that could be written as both full words and numbers.</em>"
-            },
-            "_incorrect": {
-                "final": "Incorrect answer feedback.<br><br>Sorry, that’s not right. The Adapt Open Source project was established by Kineo, Learning Pool and Sponge. At the time of writing, there are a total of nine <a href='https://www.adaptlearning.org/index.php/collaborators/' target='_blank'>official collaborators</a>.<br><br><em>Component facts: <strong>Text input</strong> components let learners enter their own answers, which is great for questions that require a bit more flexibility, like those with answers that could be written as both full words and numbers.</em>"
-            }
-        },
-        "_pageLevelProgress": {
-            "_isEnabled": true,
-            "_isCompletionIndicatorEnabled": true
-        }
-    },
-    {
-        "_id": "c-72",
-        "_parentId": "b-50",
-        "_type": "component",
-        "_component": "graphic",
-        "_classes": "",
-        "_layout": "right",
-        "_isOptional": true,
-        "title": "c-72",
-        "displayTitle": "",
-        "body": "",
-        "instruction": "",
-        "_graphic": {
-            "src": "course/en/images/single-width.png",
-            "alt": "Placeholder graphic.",
-            "attribution": ""
-        }
-    },
-    {
-        "_id": "c-75",
-        "_parentId": "b-55",
-        "_type": "component",
-        "_component": "matching",
-        "_classes": "",
-        "_layout": "full",
-        "_attempts": 1,
-        "_questionWeight": 1,
-        "_canShowModelAnswer": true,
-        "_shouldDisplayAttempts": false,
-        "_isRandom": true,
-        "title": "Matching",
-        "displayTitle": "Matching",
-        "body": "Can you identify some of the key facts and figures associated with the Adapt Open Source project?",
-        "instruction": "Choose an option from each dropdown list and select Submit.",
-        "placeholder": "Select an option",
-        "_items": [
-            {
-                "text": "The Adapt Open Source project was formed in:",
-                "_options": [
-                    {
-                        "text": "2008",
-                        "_isCorrect": false
-                    },
-                    {
-                        "text": "2010",
-                        "_isCorrect": false
-                    },
-                    {
-                        "text": "2013",
-                        "_isCorrect": true
-                    },
-                    {
-                        "text": "2015",
-                        "_isCorrect": false
-                    }
-                ]
-            },
-            {
-                "text": "Adapt adheres to level 'AA' of the <abbr title='Web Content Accessibility Guidelines'>WCAG</abbr> version 2, but when were these published?",
-                "_options": [
-                    {
-                        "text": "2008",
-                        "_isCorrect": true
-                    },
-                    {
-                        "text": "2010",
-                        "_isCorrect": false
-                    },
-                    {
-                        "text": "2013",
-                        "_isCorrect": false
-                    },
-                    {
-                        "text": "2015",
-                        "_isCorrect": false
-                    }
-                ]
-            },
-            {
-                "text": "Which of these languages would benefit from using the recent addition of Right To Left (RTL) language support within Adapt?",
-                "_options": [
-                    {
-                        "text": "Portuguese",
-                        "_isCorrect": false
-                    },
-                    {
-                        "text": "Hebrew",
-                        "_isCorrect": true
-                    },
-                    {
-                        "text": "Finnish",
-                        "_isCorrect": false
-                    },
-                    {
-                        "text": "Esperanto",
-                        "_isCorrect": false
-                    }
-                ]
-            }
-        ],
-        "_feedback": {
-            "title": "Feedback",
-            "correct": "Correct answer feedback.<br><br>Yes, that’s right. Adapt was established as an Open Source project in 2013. The Web Accessibility Initiative (WAI) published the WCAG 2.0 guidelines in 2008 and Hebrew is the only language of the four shown which reads right to left.<br><br><em>Component facts: The <strong>matching</strong> component lets you match a series of questions or statements with the corresponding options from the dropdown box. Component is either single or spanned.</em>",
-            "_partlyCorrect": {
-                "final": "Partially correct answer feedback.<br><br>That’s partially correct. Adapt was established as an Open Source project in 2013. The Web Accessibility Initiative (WAI) published the WCAG 2.0 guidelines in 2008 and Hebrew is the only language of the four shown which reads right to left.<br><br><em>Component facts: The <strong>matching</strong> component lets you match a series of questions or statements with the corresponding options from the dropdown box. Component is either single or spanned.</em>"
-            },
-            "_incorrect": {
-                "final": "Incorrect answer feedback.<br><br>Sorry, that’s not right. Adapt was established as an Open Source project in 2013. The Web Accessibility Initiative (WAI) published the WCAG 2.0 guidelines in 2008 and Hebrew is the only language of the four shown which reads right to left.<br><br><em>Component facts: The <strong>matching</strong> component lets you match a series of questions or statements with the corresponding options from the dropdown box. Component is either single or spanned.</em>"
+                "final": "Sorry, that’s not right."
             }
         },
         "_pageLevelProgress": {
@@ -407,21 +247,21 @@
         "_scaleStart": 1,
         "_scaleEnd": 10,
         "title": "Slider",
-        "displayTitle": "Slider",
-        "body": "Working memory is thought to be responsible for our ability to temporarily hold and manipulate information, but according to a paper by Miller (1956) what ‘magic number’ describes its capacity?",
+        "displayTitle": "MacPherson Recommendations",
+        "body": "How many recommendations did Macpheron make to improve modelling?",
         "instruction": "Drag the slider to make your choice and select Submit.",
         "labelStart": "",
         "labelEnd": "",
         "_correctAnswer": "",
         "_correctRange": {
-            "_bottom": 5,
+            "_bottom": 7,
             "_top": 9
         },
         "_feedback": {
             "title": "Feedback",
-            "correct": "Correct answer feedback.<br><br>Yes, that’s right. According to Miller’s paper 7 +/- 2 chunks of information was the limited capacity of working memory. Various theories from the field of cognitive psychology such as Miller’s <a href='http://en.wikipedia.org/wiki/The_Magical_Number_Seven,_Plus_or_Minus_Two' target='_blank'>magical number</a>, <a href='http://en.wikipedia.org/wiki/Chunking_%28psychology%29#Chunking_as_the_learning_of_long-term_memory_structures' target='_blank'>chunking</a>, <a href='http://en.wikipedia.org/wiki/Forgetting_curve' target='_blank'>the forgetting curve</a> and <a href='http://en.wikipedia.org/wiki/Spaced_repetition' target='_blank'>spaced repetition</a> have all influenced learning theory over the last 50 years or so.<br><br><em>Component facts: The correct answer for a slider component can be an exact number or a range. In this instance we have set the correct answer to a range of 5-9 due to the correct answer being seven plus or minus two. Component is either single or spanned.</em>",
+            "correct": "Yes, that’s right. <br> Its eight recommendations focussed around creating the right environment, establishing clear processes and publicly reporting this. They aim to extend best practice across the whole of government.",
             "_incorrect": {
-                "final": "Incorrect answer feedback.<br><br>Sorry, that’s not right. According to Miller’s paper 7 +/- 2 chunks of information was the limited capacity of working memory. Various theories from the field of cognitive psychology such as Miller’s <a href='http://en.wikipedia.org/wiki/The_Magical_Number_Seven,_Plus_or_Minus_Two' target='_blank'>magical number</a>, <a href='http://en.wikipedia.org/wiki/Chunking_%28psychology%29#Chunking_as_the_learning_of_long-term_memory_structures' target='_blank'>chunking</a>, <a href='http://en.wikipedia.org/wiki/Forgetting_curve' target='_blank'>the forgetting curve</a> and <a href='http://en.wikipedia.org/wiki/Spaced_repetition' target='_blank'>spaced repetition</a> have all influenced learning theory over the last 50 years or so.<br><br><em>Component facts: The correct answer for a slider component can be an exact number or a range. In this instance we have set the correct answer to a range of 5-9 due to the correct answer being seven plus or minus two. Component is either single or spanned.</em>"
+                "final": "Sorry, that’s not right, there are 8 Recommendations. The 8 recommendations aim to support departments by setting out the key elements needed for good environment and process. The review recommended departments and their ALBs should develop plans for both the elements in a way that fits with their remit, and is proportionate to risk. The inputs specified  are not exhaustive, but rather give a minimum guideline as to what organisations should address in QA plans going forward. "
             }
         },
         "_pageLevelProgress": {
