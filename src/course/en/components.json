@@ -8,7 +8,7 @@
         "_layout": "left",
         "title": "Introduction",
         "displayTitle": "",
-        "body": "£5 billion: Potential underestimate of forecast costs in the Ministry of Defence 10 year equipment plan. 32,000: The over-estimate in the number of new homes the New Homes Bonus policy would deliver in its first ten years, as a result of an arithmetical error in a forecasting model. These findings in the reports Major Projects Report 2015 and Forecasting in government show that models really matter! So how can you be sure your model is producing accurate forecasts?",
+        "body": "Much of government best practice in quality assurance is the result of a lesson learnt in 2012. The Department for Transport found errors in the procurement process of the InterCity West Coast franchise, which ultimately cost taxpayers at least £50 million. According to the PAC report, mistakes in the risk capital calculations opened the process to risk of legal challenge and ultimately led to the cancellation of the franchise competition.",
         "instruction": "{{_globals._learnerInfo.firstname}}, scroll down to see what came next!",
         "_pageLevelProgress": {
             "_isEnabled": true
@@ -41,8 +41,8 @@
         "_classes": "",
         "_layout": "left",
         "title": "Text",
-        "displayTitle": "Modelling Errors",
-        "body": "Modelling errors can be extremely costly. They can also be embarrassingly high-profile. The error in the model used to evaluate bids in the InterCity West Coast franchise competition in 2012 led to unforeseen costs to taxpayers of £54 million (as reported in our Forecasting report). It was this case that prompted HMT to commission the Macpherson review of the quality assurance of modelling, which recommended that departments put in place the right processes and culture to       support quality assurance.So what goes wrong? Typically the problems relate to: <br><ul><li>Limited or poor quality data; <li>Unrealistic assumptions and optimism bias – an issue we addressed in the blog The art of spending public money wisely and a paper on Over-optimism in government projects; and/or<li>Inadequate sensitivity and scenario analysis. These factors – and an actual lack of forecasting or modelling – were the key weaknesses found in 71 reviewed NAO studies undertaken between 2010 and 2013, as detailed in Forecasting in government to achieve value for money.",
+        "displayTitle": "",
+        "body": "<strong> Placeholder Text</strong><br> Words from Phillip Rutland <ui><li>History of west coast mainline;<li> the context <li> the challenges the reaction and civil service response</ui>",
         "instruction": "",
         "_pageLevelProgress": {
             "_isEnabled": true
@@ -76,7 +76,7 @@
         "_items": [
             {
                 "title": "Commission started",
-                "body": " Since the difficulties with the Intercity West Coast franchise competition, the quality of government analysis has, rightly, been scrutinised. In October 2012, Nick Macpherson was commissioned to review the quality assurance of analytical models across government. The recommendations of that review were written with the aim to extend best practice across the whole of government. They focus on quality assurance, governance and accountability, culture, capacity, capability and control.",
+                "body": " Since the difficulties with the Intercity West Coast franchise competition, the quality of government analysis has, rightly, been scrutinised. In October 2012, Nick Macpherson was commissioned to review the quality assurance of analytical models across government.",
                 "_graphic": {
                     "src": "course/en/images/man_read.png",
                     "alt": "Placeholder graphic."
@@ -85,7 +85,7 @@
             },
             {
                 "title": "Review of quality assurance of Government analytical models",
-                "body": "To assure current arrangements are robust, the review team conducted three strands of work. Firstly, it interviewed public and private sector organisations and professional bodies, to identify best practice. Secondly, it collected and analysed data on departments’ current QA practices. Thirdly, and drawing on the outputs from these workstreams, it developed recommendations.",
+                "body": "The recommendations of that review were written with the aim to extend best practice across the whole of government. They focus on quality assurance, governance and accountability, culture, capacity, capability and control.",
                 "_graphic": {
                     "src": "course/en/images/paper_pen.png",
                     "alt": "Placeholder graphic."
@@ -94,7 +94,7 @@
             },
             {
                 "title": "Aftermath",
-                "body": "A cross departmental working group assembled to work on analytical quality assurance published The Aqua Book in March 2015. This draws together existing practice from across departments and best practice from analysts across analytical professions. It is intended to help and provide advice to those implementing the recommendations from the Macpherson review and to promote analytical quality. The working group have also since released a series of supporting documents, such as QA logs",
+                "body": "Macpherson review (words from ex perm sec, perhaps on the review the context in 2013 of building trust, how government came together and established a set of principles that would be relevant to everyone for years to come) ",
                 "_graphic": {
                     "src": "course/en/images/chart.png",
                     "alt": "Placeholder graphic."
