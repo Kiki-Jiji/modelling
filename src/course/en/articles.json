@@ -17,6 +17,7 @@
         "title": "a-10",
         "displayTitle": "",
         "body": "",
-        "instruction": ""
+        "instruction": "",
+        "_trickle": "_isEnabled"
     }
 ]
