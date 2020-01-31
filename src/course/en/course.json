@@ -8,6 +8,9 @@
     "description": "Analysis and the use of evidence informs every decision we make as civil servants. It also underpins the civil service values of integrity, honesty, objectivity and impartiality by which we are held to account.",
     "body": "This course is designed is a primer for anyone involved with modelling, from practitioner to senior responsible owner. Quality assurance control is a key aspect of the effective risk management of analysis and the decisions it helps inform.",
     "instruction": "",
+    "_blockSlider": {
+        "_isEnabled": true
+    },
     "_buttons": {
         "_submit": {
             "buttonText": "Submit",

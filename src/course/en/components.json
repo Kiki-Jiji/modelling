@@ -268,5 +268,65 @@
             "_isEnabled": true,
             "_isCompletionIndicatorEnabled": true
         }
+    },
+    {
+        "_id": "c-85",
+        "_parentId": "b-65",
+        "_type": "component",
+        "_component": "text",
+        "_classes": "",
+        "_layout": "",
+        "title": "Introduction",
+        "displayTitle": "",
+        "body": "Much of government best practice in quality assurance is the result of a lesson learnt in 2012. The Department for Transport found errors in the procurement process of the InterCity West Coast franchise, which ultimately cost taxpayers at least £50 million. According to the PAC report, mistakes in the risk capital calculations opened the process to risk of legal challenge and ultimately led to the cancellation of the franchise competition.",
+        "instruction": "{{_globals._learnerInfo.firstname}}, scroll down to see what came next!",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id": "c-90",
+        "_parentId": "b-70",
+        "_type": "component",
+        "_component": "text",
+        "_classes": "",
+        "_layout": "span",
+        "title": "Introduction",
+        "displayTitle": "",
+        "body": "Much of government best practice in quality assurance is the result of a lesson learnt in 2012. The Department for Transport found errors in the procurement process of the InterCity West Coast franchise, which ultimately cost taxpayers at least £50 million. According to the PAC report, mistakes in the risk capital calculations opened the process to risk of legal challenge and ultimately led to the cancellation of the franchise competition.",
+        "instruction": "{{_globals._learnerInfo.firstname}}, scroll down to see what came next!",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+      },
+        {
+            "_id": "c-95",
+            "_parentId": "b-75",
+            "_type": "component",
+            "_component": "text",
+            "_classes": "",
+            "_layout": "",
+            "title": "Introduction",
+            "displayTitle": "",
+            "body": "Mudsgdsgdgsdgis the result of a lesson learnt in 2012. The Department for Transport found errors in the procurement process of the InterCity West Coast franchise, which ultimately cost taxpayers at least £50 million. According to the PAC report, mistakes in the risk capital calculations opened the process to risk of legal challenge and ultimately led to the cancellation of the franchise competition.",
+            "instruction": "{{_globals._learnerInfo.firstname}}, scroll down to see what came next!",
+            "_pageLevelProgress": {
+                "_isEnabled": true
+            }
+          },
+            {
+                "_id": "c-96",
+                "_parentId": "b-80",
+                "_type": "component",
+                "_component": "text",
+                "_classes": "",
+                "_layout": "",
+                "title": "Introduction",
+                "displayTitle": "",
+                "body": "Mhathathaty assurance is the result of a lesson learnt in 2012. The Department for Transport found errors in the procurement process of the InterCity West Coast franchise, which ultimately cost taxpayers at least £50 million. According to the PAC report, mistakes in the risk capital calculations opened the process to risk of legal challenge and ultimately led to the cancellation of the franchise competition.",
+                "instruction": "{{_globals._learnerInfo.firstname}}, scroll down to see what came next!",
+                "_pageLevelProgress": {
+                    "_isEnabled": true
+                }
     }
 ]
