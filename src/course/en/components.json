@@ -268,5 +268,37 @@
             "_isEnabled": true,
             "_isCompletionIndicatorEnabled": true
         }
-    }
+    },
+    {
+ 	    "_id":"c-85",
+ 	    "_parentId":"b-65",
+ 	    "_type":"component",
+ 	    "_component":"flipcard",
+ 	    "_classes":"",
+ 	    "_layout":"left",
+ 	    "title": "Flip Card",
+ 	    "displayTitle": "Flip Card",
+ 	    "body": "This is optional body text. Click the image below to reveal the text.",
+ 	    "instruction": "",
+ 	    "_flipType": "singleFlip",
+ 	    "_flipTime": 400,
+ 	    "_items": [
+		{
+			"frontImage": {
+				"src": "course/en/images/flip_1.png",
+				"alt": "flipcard item 1 graphic alt text here."
+			},
+			"backTitle": "Heading 1",
+			"backBody": "This is display text 1."
+		},
+		{
+			"frontImage": {
+				"src": "course/en/images/flip_2.png",
+				"alt": "flipcard item 1 graphic alt text here."
+			},
+			"backTitle": "Heading 2",
+			"backBody": "<ul><li>This is list item 1.</li><li>This is list item 2.</li></ul>"
+		}
+	]
+}
 ]
